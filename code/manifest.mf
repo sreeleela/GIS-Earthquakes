@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: Sree Leela Nadipalli
+Trusted-Library: true
+Main-Class: code.Earthquake
+Class-Path: code/esri_mo20.jar code/esri_mo20res.jar 
+X-COMMENT: Main-Class is in code directory
